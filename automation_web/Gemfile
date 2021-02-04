@@ -1,0 +1,10 @@
+source 'https://rubygems.org'   # De onde está sendo buscando as biblioteca
+
+gem 'capybara'
+gem 'cucumber'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'ffi'
+gem 'rubocop'
+gem 'report_builder'
